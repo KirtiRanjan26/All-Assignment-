@@ -1,2 +1,6 @@
 # All-Assignment-
-this is the assignment list that make me pro in my AI journey step by step.
+# This repo contains my Day-wise Python practice"
+
+## Day-1
+topic cover- basic python(syntex,variable,data type, operator)
+date- 12th april
